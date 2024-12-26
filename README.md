@@ -1,6 +1,6 @@
 # CSDF
 
-# 🏙️✨ City Sales Analyzer 📊✨
+# 🏙️✨ City Sales Analyzer or City Sales Database Framework 📊✨
 
 This program simulates and analyzes sales data for a collection of bustling metropolises 🌎, bringing the vibrant world of commerce to life! 🎉
 
